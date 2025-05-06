@@ -5,3 +5,6 @@
 </p>
 
 # IP-Address-Manager-Highlights
+
+
+Tracked and managed static and dynamic IP allocations using IP Address Manager for structured network infrastructure.
