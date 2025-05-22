@@ -4,7 +4,8 @@
   </a>
 </p>
 
-# IP-Address-Manager-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/IP-Address-Manager-Highlights/main/images/IPAM.png" alt="IP Address Manager Highlights" width="600">
+</p>
 
-
-➜ Tracked and managed static and dynamic IP allocations using IP Address Manager to support organized and efficient network infrastructure.
+> This section highlights experience with IP Address Management tools for efficient network planning, monitoring, and resource allocation.
